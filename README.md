@@ -1,14 +1,24 @@
 ### Hi there 👋
 
-I'm Qunzhang, a passionate developer with a keen interest in control systems and path planning. My journey has been filled with adventures in C++, Python, and MATLAB.  
+---
 
-🛠️ My Toolbox
-Languages: C++, Python, MATLAB  
-Control Systems: PID, Linear Quadratic Regulator (LQR/LQI/LQR+Feedforward control), Model Predictive Control (MPC/NMPC)  
-Path Planning: [A*, RRT*]  
-Filter: [EKF, CKF, UKF]  
-Machine Learning: [TensorFlow, PyTorch]  
+🙋‍♂️ **About Me**
 
-📫 Let's Connect!  
-LinkedIn: [(https://www.linkedin.com/in/qun-zhang-a69009253/)]  
-Email: [qunz@chalmers.se]
+I'm **Qunzhang**, a passionate developer with a rich expertise in control systems and path planning. My coding adventures primarily revolve around C++, Python, and MATLAB.
+
+---
+
+🔧 **Tech Stack**
+
+- **Languages:** `C++` | `Python` | `MATLAB`
+- **Control Systems:** `PID` | `LQR/LQI/LQR+Feedforward control` | `MPC/NMPC`
+- **Path Planning:** `A*` | `RRT*`
+- **Filtering:** `EKF` | `CKF` | `UKF`
+- **Machine Learning:** `TensorFlow` | `PyTorch`
+
+---
+
+🔗 **Connect with Me**
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/qun-zhang-a69009253/) 
+- 📧 `qunz@chalmers.se`
