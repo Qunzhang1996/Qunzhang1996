@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-🙋‍♂️ **About Me**
+🙋‍♂️ **About Me**  
 I'm **Qunzhang**, a passionate developer with a rich expertise in control systems and path planning. My coding adventures primarily revolve around C++, Python, and MATLAB.
 ---
 🔧 **Tech Stack**
