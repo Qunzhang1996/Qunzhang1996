@@ -4,8 +4,8 @@ I'm Qunzhang, a passionate developer with a keen interest in control systems and
 
 🛠️ My Toolbox
 Languages: C++, Python, MATLAB  
-Control Systems: Linear Quadratic Regulator (LQR), Model Predictive Control (MPC)
-Path Planning & Control: [A*, RRT*]  
+Control Systems: PID, Linear Quadratic Regulator (LQR/LQI/LQR+Feedforward control), Model Predictive Control (MPC/NMPC)  
+Path Planning: [A*, RRT*]  
 Filter: [EKF, CKF, UKF]  
 Machine Learning: [TensorFlow, PyTorch]  
 
