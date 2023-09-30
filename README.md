@@ -7,7 +7,7 @@
 - **Languages:** `C++` | `Python` | `MATLAB`
 - **Control Systems:** `PID` | `LQR/LQI/LQR+Feedforward control` | `MPC/NMPC`
 - **Path Planning:** `A*` | `RRT*`
-- **Filtering:** `EKF` | `CKF` | `UKF`
+- **Filtering:** `EKF` | `CKF` | `UKF` | `PF`
 - **Machine Learning:** `TensorFlow` | `PyTorch`
 ---
 🔗 **Connect with Me**
