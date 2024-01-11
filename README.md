@@ -1,1 +1,1 @@
-![this is state space model](./figure.png)
+![this is state space model](./figure2.png)
